@@ -1,7 +1,7 @@
 
 # <img src="https://github.com/user-attachments/assets/8277df6b-ce3f-4862-a6f7-7f18cd88b47d" width="30px" height="30px"> 멋쟁이 사자처럼 
 
-> 프론트엔드 스쿨 12기 200의 repository입니다 ✅
+> 프론트엔드 스쿨 12기 팀 200의 repository입니다 ✅
 
 
 ## 👨‍👩‍👧‍👦 팀원 소개
